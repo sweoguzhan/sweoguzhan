@@ -1,10 +1,10 @@
 ```bash
-ogzhncngl@github:~$ whoami
+sweoguzhan@github:~$ whoami
 ```
 # 👨‍💻 Oğuzhan Cengel | Full Stack Developer
 
 ```bash
-ogzhncngl@github:~$ cat about.txt
+sweoguzhan@github:~$ cat about.txt
 ```
 ```yaml
 location: Turkey
@@ -26,7 +26,7 @@ technical_background:
 ```
 
 ```bash
-ogzhncngl@github:~$ ls projects/
+sweoguzhan@github:~$ ls projects/
 ```
 ```css
 📂 3dfolders.com/
@@ -43,7 +43,7 @@ ogzhncngl@github:~$ ls projects/
 ```
 
 ```bash
-ogzhncngl@github:~$ cat experience.log
+sweoguzhan@github:~$ cat experience.log
 ```
 ```ruby
 @ibilityapp {
@@ -72,21 +72,21 @@ ogzhncngl@github:~$ cat experience.log
 ```
 
 ```bash
-ogzhncngl@github:~$ top
+sweoguzhan@github:~$ top
 ```
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogzhncngl&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sweoguzhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
 </div>
 
 ```bash
 ogzhncngl@github:~$ git stats
 ```
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogzhncngl&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sweoguzhan&theme=github_dark&hide_border=true" />
 </div>
 
 ```bash
-ogzhncngl@github:~$ nc -l 8080
+sweoguzhan@github:~$ nc -l 8080
 ```
 <p align="center">
   <a href="https://linkedin.com/in/oguzhan-cengel-b73a59237">
@@ -98,7 +98,7 @@ ogzhncngl@github:~$ nc -l 8080
 </p>
 
 ```bash
-ogzhncngl@github:~$ uptime
+sweoguzhan@github:~$ uptime
 ```
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ogzhncngl&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
