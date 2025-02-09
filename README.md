@@ -26,20 +26,36 @@ technical_background:
 ```
 
 ```bash
-sweoguzhan@github:~$ ls projects/
+ogzhncngl@github:~$ ls projects/
 ```
 ```css
-📂 3dfolders.com/
-  └─ A virtual marketplace for 3D architectural models
-  └─ Tech: React.js, Node.js, MongoDB
-  
-📂 nextpluspersoneltakip.com/
-  └─ Personnel tracking system used in 60% of Turkey's malls
-  └─ Tech: React.js, Node.js, PostgreSQL
-  
-📂 voicesmart.co/
-  └─ Corporate website with custom themes
-  └─ Tech: Next.js, TailwindCSS
++ 📂 visa-checker/
++   └─ Automated visa appointment tracking system with Telegram notifications
++   └─ Tech: Node.js, TypeScript, Telegram API
++ 
++ 📂 prayer-checker/
++   └─ Mobile application for tracking prayer times
++   └─ Tech: React Native, RESTful APIs
++ 
++ 📂 getupfit-app/
++   └─ Fitness tracking and workout planning mobile application
++   └─ Tech: React Native, Firebase
++ 
++ 📂 getfriend-app/
++   └─ Dating application with modern matching algorithms [In Development]
++   └─ Tech: React Native, Node.js
++ 
++ 📂 tugaycelikmimarlik.com/
++   └─ Architecture portfolio website
++   └─ Tech: Next.js, Node.js
++ 
+  📂 nextpluspersoneltakip.com/
+    └─ Personnel tracking system used in 60% of Turkey's malls
+    └─ Tech: React.js, Node.js, PostgreSQL
+- 
+- 📂 voicesmart.co/
+-   └─ Corporate website with custom themes
+-   └─ Tech: Next.js, TailwindCSS
 ```
 
 ```bash
