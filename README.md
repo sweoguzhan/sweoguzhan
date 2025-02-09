@@ -48,9 +48,10 @@ Corporate website developed using Next.js with custom themes and brand identity 
 ## 💼 Professional Experience
 - **Backend Developer** at ibilityapp (2024 - Present)
 - **Full Stack Developer** at Manim Finance Technologies (2023 - 2024)
-- **Full Stack Developer** at Plexus Mind (2023)
+- **Frontend Developer** at Plexus Mind (2023)
 - **Frontend Developer** at Recram (2023)
 - **React Native Developer** at FHT Software (2022)
+- **Freelance Developer (2020)
 
 ## 🤝 Connect with Me
 <p align="center">
