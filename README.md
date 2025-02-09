@@ -1,7 +1,7 @@
 ```bash
 sweoguzhan@github:~$ whoami
 ```
-# 👨‍💻 Oğuzhan Cengel | Full Stack Developer
+# 👨‍💻 Oguzhan Cengel | Software Developer
 
 ```bash
 sweoguzhan@github:~$ cat about.txt
