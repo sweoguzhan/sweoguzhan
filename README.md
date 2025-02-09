@@ -1,68 +1,105 @@
-# 👋 Hi there, I'm Oğuzhan Cengel
+```bash
+ogzhncngl@github:~$ whoami
+```
+# 👨‍💻 Oğuzhan Cengel | Full Stack Developer
 
+```bash
+ogzhncngl@github:~$ cat about.txt
+```
+```yaml
+location: Turkey
+current_job: Backend Developer @ ibilityapp
+education: Computer Science
+fields_of_interest:
+  - Full Stack Development
+  - Mobile Development
+  - Cloud Architecture
+  - System Design
+  
+technical_background:
+  languages: [TypeScript, JavaScript, Golang, PHP]
+  frontend: [React, Angular, Vue, Next.js]
+  mobile: [React Native, Flutter]
+  backend: [Node.js, Laravel, Express]
+  database: [MongoDB, PostgreSQL, MySQL]
+  devops: [Docker, AWS, CI/CD]
+```
+
+```bash
+ogzhncngl@github:~$ ls projects/
+```
+```css
+📂 3dfolders.com/
+  └─ A virtual marketplace for 3D architectural models
+  └─ Tech: React.js, Node.js, MongoDB
+  
+📂 nextpluspersoneltakip.com/
+  └─ Personnel tracking system used in 60% of Turkey's malls
+  └─ Tech: React.js, Node.js, PostgreSQL
+  
+📂 voicesmart.co/
+  └─ Corporate website with custom themes
+  └─ Tech: Next.js, TailwindCSS
+```
+
+```bash
+ogzhncngl@github:~$ cat experience.log
+```
+```ruby
+@ibilityapp {
+  role: "Backend Developer"
+  period: "2024 - Present"
+  tech_stack: ["Node.js", "PHP Laravel", "AWS", "AI Integration"]
+}
+
+@Manim_Finance {
+  role: "Full Stack Developer"
+  period: "2023 - 2024"
+  tech_stack: ["Angular", "Next.js", "Vue.js", "Flutter", "Golang"]
+}
+
+@Plexus_Mind {
+  role: "Full Stack Developer"
+  period: "2023"
+  tech_stack: ["Vue.js", "React Native"]
+}
+
+@Recram {
+  role: "Frontend Developer"
+  period: "2023"
+  tech_stack: ["Vue.js", "Tailwind CSS"]
+}
+```
+
+```bash
+ogzhncngl@github:~$ top
+```
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogzhncngl&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
 </div>
 
-## 🚀 About Me
-- 🔭 Currently working as a Backend Developer at **ibilityapp**
-- 🌱 Passionate about building scalable applications with **Node.js**, **Golang**, and **Cloud Technologies**
-- 💻 Experienced in both frontend and backend development
-- 📱 Skilled in mobile development with **React Native** and **Flutter**
-- 🎯 Focused on creating efficient, maintainable, and user-friendly applications
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-
-## 🌟 Featured Projects
-
-### 3D Folders Marketplace
-A virtual marketplace for 3D and 2D architectural models built with React.js and Node.js.
-[Visit Site](https://3dfolders.com/)
-
-### NextPlus Tracking Panel
-Personnel monitoring system used in 60% of Turkey's shopping malls, built with React.js, Node.js, and PostgreSQL.
-[Visit Site](https://nextpluspersoneltakip.com/auth)
-
-### Voice Smart Corporate Website
-Corporate website developed using Next.js with custom themes and brand identity integration.
-[Visit Site](https://voicesmart.co/)
-
-## 📈 GitHub Stats
+```bash
+ogzhncngl@github:~$ git stats
+```
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sweoguzhan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweoguzhan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogzhncngl&theme=github_dark&hide_border=true" />
 </div>
 
-## 💼 Professional Experience
-- **Backend Developer** at ibilityapp (2024 - Present)
-- **Full Stack Developer** at Manim Finance Technologies (2023 - 2024)
-- **Frontend Developer** at Plexus Mind (2023)
-- **Frontend Developer** at Recram (2023)
-- **React Native Developer** at FHT Software (2022)
-- **Freelance Developer (2020)
-
-## 🤝 Connect with Me
+```bash
+ogzhncngl@github:~$ nc -l 8080
+```
 <p align="center">
   <a href="https://linkedin.com/in/oguzhan-cengel-b73a59237">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ogzhncngl">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
+```bash
+ogzhncngl@github:~$ uptime
+```
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ogzhncngl&color=blueviolet" alt="Profile views" />
-</div> 
+  <img src="https://komarev.com/ghpvc/?username=ogzhncngl&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
