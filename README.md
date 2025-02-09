@@ -26,7 +26,7 @@ technical_background:
 ```
 
 ```bash
-ogzhncngl@github:~$ ls projects/
+sweoguzhan@github:~$ ls projects/
 ```
 ```css
 + 📂 visa-checker/
@@ -102,7 +102,7 @@ sweoguzhan@github:~$ top
 </div>
 
 ```bash
-ogzhncngl@github:~$ git stats
+sweoguzhan@github:~$ git stats
 ```
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sweoguzhan&theme=github_dark&hide_border=true" />
