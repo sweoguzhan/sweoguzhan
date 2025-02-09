@@ -17,11 +17,11 @@ fields_of_interest:
   - System Design
   
 technical_background:
-  languages: [TypeScript, JavaScript, Golang, PHP]
+  languages: [TypeScript, JavaScript, Golang, PHP,.NET]
   frontend: [React, Angular, Vue, Next.js]
-  mobile: [React Native, Flutter]
-  backend: [Node.js, Laravel, Express]
-  database: [MongoDB, PostgreSQL, MySQL]
+  mobile: [React Native, Flutter,Swift]
+  backend: [Node.js, Laravel, Express,.NET,Python]
+  database: [MongoDB, PostgreSQL, MySQL,DynamoDB]
   devops: [Docker, AWS, CI/CD]
 ```
 
@@ -55,7 +55,7 @@ sweoguzhan@github:~$ cat experience.log
 @Manim_Finance {
   role: "Full Stack Developer"
   period: "2023 - 2024"
-  tech_stack: ["Angular", "Next.js", "Vue.js", "Flutter", "Golang"]
+  tech_stack: ["Angular", "Next.js","NodeJS","Vue.js", "Flutter", "Golang"]
 }
 
 @Plexus_Mind {
@@ -68,6 +68,16 @@ sweoguzhan@github:~$ cat experience.log
   role: "Frontend Developer"
   period: "2023"
   tech_stack: ["Vue.js", "Tailwind CSS"]
+}
+@FHT Software {
+  role: "Frontend Developer"
+  period: "2022"
+  tech_stack: ["Vue.js", "Tailwind CSS","ReactJS","React Native"]
+}
+@Freelancer {
+  role: "Frontend Developer"
+  period: "2020"
+  tech_stack: ["Vue.js", "Tailwind CSS","ReactJS","React Native"]
 }
 ```
 
@@ -94,6 +104,9 @@ sweoguzhan@github:~$ nc -l 8080
   </a>
   <a href="https://github.com/ogzhncngl">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://oguzhancengel.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/>
   </a>
 </p>
 
