@@ -49,13 +49,10 @@ ogzhncngl@github:~$ ls projects/
 +   └─ Architecture portfolio website
 +   └─ Tech: Next.js, Node.js
 + 
-  📂 nextpluspersoneltakip.com/
-    └─ Personnel tracking system used in 60% of Turkey's malls
-    └─ Tech: React.js, Node.js, PostgreSQL
-- 
-- 📂 voicesmart.co/
--   └─ Corporate website with custom themes
--   └─ Tech: Next.js, TailwindCSS
++ 📂 nextpluspersoneltakip.com/
++    └─ Personnel tracking system used in 60% of Turkey's malls
++    └─ Tech: React.js, Node.js, PostgreSQL
+
 ```
 
 ```bash
@@ -118,7 +115,7 @@ sweoguzhan@github:~$ nc -l 8080
   <a href="https://linkedin.com/in/oguzhan-cengel-b73a59237">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ogzhncngl">
+  <a href="https://github.com/sweoguzhan">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://oguzhancengel.netlify.app/">
